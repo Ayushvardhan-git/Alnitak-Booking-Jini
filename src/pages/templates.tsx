@@ -18,7 +18,7 @@ const DEMO_TEMPLATES = [
   {
     id: '2',
     name: 'Diwali Celebration',
-    thumbnail: 'https://images.unsplash.com/photo-1604423481621-0e90893a7a43',
+    thumbnail: 'https://www.creativehatti.com/wp-content/uploads/edd/2022/09/Banner-template-for-happy-diwali-festival-24-large.jpg',
     category: 'festival',
     occasion: 'Diwali',
     popularity: 'high'
